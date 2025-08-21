@@ -1111,17 +1111,6 @@ the sometimes-difficult conversations that arise inside issues of social
 inequality as we deepen our understandings of multiple perspectives --
 whatever our backgrounds, experiences, or positions.
 
-## Contingency plan for an in-person class pivoting to 100% online learning
-
-In the event of a COVID-19 resurgence during the course that
-necessitates the course delivery moving away from face-to-face
-interaction, affected course content will be delivered entirely online,
-either synchronously (i.e., at the times indicated in the timetable) or
-asynchronously (e.g., posted on OWL for students to view at their
-convenience). The grading scheme will not change. Any remaining
-assessments will also be conducted online as determined by the course
-instructor.
-
 ## Late Assignments - Formal Guidelines
 
 Late papers will be accepted, but will be subject to a late penalty of
@@ -1441,4 +1430,5 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
+
 
