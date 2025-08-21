@@ -7,8 +7,8 @@
 +-------------------+--------------------------------------------------+
 | **Day**           | Thursday                                         |
 +-------------------+--------------------------------------------------+
-| **Office Hours:** | Wednesday 10:00am-Noon pm via zoom - link in     |
-|                   | brightspace                                      |
+| **Office Hours:** | Wednesday 11:00am-1:00pm via zoom - link in      |
+|                   | Brightspace                                      |
 +-------------------+--------------------------------------------------+
 | **Email:**        | dbousfie@uwo.ca                                  |
 +-------------------+--------------------------------------------------+
@@ -199,11 +199,11 @@ established on the first week of class.
 **Methods of Evaluation**
 
   -----------------------------------------------------------------------
-  Participation - 20%                 Term Assignment - 15% requires
+  Participation - 25%                 Term Assignment - 20% requires
                                       documentation for academic
                                       accommodation
   ----------------------------------- -----------------------------------
-  Presentation -- 20%                 Essay 45% - Due November 27, 2025
+  Presentation -- 20%                 Essay 35% - Due November 27, 2025
 
   -----------------------------------------------------------------------
 
@@ -346,7 +346,7 @@ supporting documentation** in this course. However, the following
 assessments are excluded from this, and therefore always require formal
 supporting documentation:
 
-Term Assignment -- 15%
+Term Assignment
 
 When a student *[mistakenly]{.underline}* submits their
 [one]{.underline} allowed Academic Consideration request **without
@@ -419,9 +419,9 @@ submitted to the system. Use of the service is subject to the licensing
 agreement, currently between The University of Western Ontario and
 Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation -- 20% (Weekly submissions) 
+## Weekly Participation -- (Weekly submissions) 
 
-Weekly Assignments -- Base submission is pass/fail 70% (14 of 20)
+Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 
 Students **must** complete a minimum of **two engagement options
 weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
@@ -460,7 +460,7 @@ Weekly Engagement Options (a minimum of two options required per week):
     <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
     excluding: True/False Questions, Quiz, Exams and Tests,
     Fill-in-the-Blank Questions, Close Reading with Questions, Diagram
-    or Image-Based Questions, Summary. If you have any questions please
+    or Image-Based Questions, Summary. If you have any questions, please
     contact the instructor about the viability of your participation.
 
 > Sample weekly participation submission:![Picture 565367195, Picture,
@@ -470,39 +470,23 @@ Weekly Engagement Options (a minimum of two options required per week):
 A Final calculation activity is **required** to receive your
 participation mark.
 
-At the end of the course students just need to calculate their
-participation based on the submissions each week throughout the course.
-We will take your top 5 weeks.\
-\
-2 forms of participation per week = 70% (pass/fail)\
-\
 More than 2 forms of participation each week, or substantive improvement
 can result in a higher grade (the 80, 85 and 90 grades below are
 approximations, I withhold the right to assess the quality of the
 submission and adjust the grade accordingly). You should be able to
-demonstrate responding to my feedback, engaging with different course
-material each week to demonstrate improvement throughout the course.
-Therefore, the calculation would look like:
+demonstrate your responses to my feedback, engaging with different
+course material each week to demonstrate improvement throughout the
+course. See Brightspace for an example of how to calculate your
+participation grade.
 
-'This is my calculation of my participation: are you riding today it\'s
-not going to come to the cottage cuz the weekends don\'t work
+## Attendance Bonus (5% on final participation summary)
 
-- 2 forms of participation: 2x on weeks 1, 2, 3, 7, 10 (I did the
-  quizzes and another exercise) 5\*70 = 350 & I responded to feedback
-  (see the attached files, improving my citation and paragraph structure
-  ) =10\*50 = 400/500
-
-- 3 forms of participation: Week 4, 5 (I did 2 quizzes and 2 TikTok\'s
-  and two op-eds) = 2\* 80 = 160/200
-
-- 4 forms of participation: Week 6, 8, 9 = (I did 3 quizzes, 2 article
-  reviews, 2 debates, 2 podcasts) = 3\*90 & 10% because you said I
-  improved the podcasts = 3\*100 = 300/300
-
-- Total calculation:\
-  400+200+300 = 900/1000 = 90% or 18/20\
-  Therefore, my participation for the term should be 18 out of 20 -
-  please see the attached files to demonstrate my improvement.'
+Students will receive a 1% bonus on their final participation summary
+for every two classes attended (attendance must be recorded through the
+Microsoft form each week during class time), with a maximum of 10
+classes considered to earn the full 5% bonus. You can check your
+participation through the link in Brightspace weekly. You cannot receive
+more than 100% on the final participation mark.
 
 Frameworks for presentations, media assessments, and final papers. All
 assignments in this course should orient their papers around one of
@@ -519,7 +503,7 @@ these debates.
   dynamics: agility, experimentation, and disruption versus stability,
   path dependence, and systemic inertia.
 
-## Term Assignment -- Option 1 - Cyber Event Framing Assessment: 15% of final course grade.
+## Term Assignment -- Option 1 - Cyber Event Framing Assessment: 
 
 This assignment will critically engage with a cyber-event or issue to
 assess the political framing and response to the event. It should use
@@ -537,7 +521,7 @@ ways.
 
 > 1\. A written report (essay) which assesses the framing of the issue,
 > and the viability of the arguments given the academic debates on the
-> issue. The written assignment should be a minimum of 1250 words, in
+> issue. The written assignment should be a minimum of 1000 words, in
 > proper essay format (with title page and bibliography) and have a
 > minimum of 4 academic sources primarily from the course. Due the end
 > of Week 7.
@@ -558,7 +542,7 @@ ways.
 For an example of a cyber framing event media assessment see the link in
 brightspace
 
-## Term Assignment -- Option 2 - Media Assessment: 15% of final course grade.
+## Term Assignment -- Option 2 - Media Assessment
 
 Media Assessment - This assignment will critically engage with the
 depiction of a key issue event or incident in relation to cyberpolitics
@@ -577,7 +561,7 @@ governance. This critical assessment can be presented in 2 ways.
 > course materials. The viability of the arguments given the academic
 > debates on the issue is the focus. It does not need to be
 > comprehensive it simply needs to focus on three key arguments in the
-> media .The written assignment should be a minimum of 1250 words, in
+> media. The written assignment should be a minimum of 1000 words, in
 > proper essay format (with title page and bibliography) and have a
 > minimum of 4 academic sources, primarily from course readings. **Due
 > the end of Week 7.**
@@ -588,7 +572,7 @@ governance. This critical assessment can be presented in 2 ways.
 > presenter should outline their interpretation of the argument for the
 > class. The presenter will then prepare a short exercise, role playing
 > or creative interactive exercise to raise issues and ideas that stem
-> from media and their critical interpretation of it. A minimum of 4
+> from the media and their critical interpretation of it. A minimum of 4
 > academic sources are required for the assignment, primarily from
 > course readings.
 
@@ -602,9 +586,7 @@ in Transdisiplinary Method: After the Aesthetic Turn, 2012.
 Halberstam, Judith. "Low theory," The queer art of failure. Duke
 University Press, 2011.
 
-## Country based Presentation -- 20% of final grade
-
-Student Presentations: 20% of final course grade.
+## Country based Presentation 
 
 The student presentation is a two-part exercise. During the first-class
 students will select a policy from the 'country-based' text for the week
@@ -630,13 +612,13 @@ approval. A minimum of three academic sources is required, and at least
 one from the course readings. All materials should be made available one
 week before the presentation including the presentation slides.
 
-## Essay: 45% of final grade due November 27, 2025.
+## Essay: Due November 27, 2025.
 
-Length: 3,000- 3,750 words (12- 15 pages), typed and double spaced.
-Pages should be numbered, and the type of font should be no smaller than
-12 characters per inch (e.g., Arial 12). Students must submit their
-papers through the assignment tab in OWL and all papers may be processed
-by Turnitin. The instructor may require that 10% of randomly selected
+Length: 2000-3000 words (8- 10 pages), typed and double spaced. Pages
+should be numbered, and the type of font should be no smaller than 12
+characters per inch (e.g., Arial 12). Students must submit their papers
+through the assignment tab in OWL and all papers may be processed by
+Turnitin. The instructor may require that 10% of randomly selected
 students will have to meet to discuss their paper in person after
 completion.
 
@@ -653,13 +635,13 @@ academic for argumentation, but non-academic sources can be used for
 evidence. A minimum of six sources from our course readings are required
 in your analysis.
 
-Option 2: Essay on cyberpolitical issues 45% of final grade
+Option 2: Essay on cyberpolitical issues of final grade
 
-Length: 3,000- 3,750 words (12- 15 pages), typed and double spaced.
-Pages should be numbered, and the type of font should be no smaller than
-12 characters per inch (e.g., Arial 12). Students must submit their
-papers through the assignment tab in OWL and all papers may be processed
-by Turnitin.
+Length: 2000-3000 words (8- 10 pages), typed and double spaced. Pages
+should be numbered, and the type of font should be no smaller than 12
+characters per inch (e.g., Arial 12). Students must submit their papers
+through the assignment tab in OWL and all papers may be processed by
+Turnitin.
 
 Topics: Students choose their own essay topics, but such choices must be
 approved by the instructor. No one is allowed to write on Stuxnet. The
@@ -1430,5 +1412,3 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
-
-
