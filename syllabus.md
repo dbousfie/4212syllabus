@@ -203,7 +203,7 @@ established on the first week of class.
                                       documentation for academic
                                       accommodation
   ----------------------------------- -----------------------------------
-  Presentation -- 20%                 Essay 45% - Due March 26, 2025
+  Presentation -- 20%                 Essay 45% - Due November 27, 2025
 
   -----------------------------------------------------------------------
 
@@ -630,7 +630,7 @@ approval. A minimum of three academic sources is required, and at least
 one from the course readings. All materials should be made available one
 week before the presentation including the presentation slides.
 
-## Essay: 45% of final grade due March 26, 2025.
+## Essay: 45% of final grade due November 27, 2025.
 
 Length: 3,000- 3,750 words (12- 15 pages), typed and double spaced.
 Pages should be numbered, and the type of font should be no smaller than
@@ -1441,3 +1441,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
+
