@@ -1374,7 +1374,7 @@ Relations**
 
 APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
 SCIENCE
-<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf>
+<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf>
 
 **Accessibility at Western: Please** contact <poliscie@uwo.ca> if you
 require any information in plain text format, or if any other
@@ -1412,3 +1412,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
+
