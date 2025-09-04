@@ -423,10 +423,9 @@ Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
 Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 
-Students **must** complete a minimum of **two engagement options
-weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
-requirements. Quizzes can be completed each week for one participation
-mark . The remaining forms of participation can only be done twice each
+Students **must** complete a minimum of **one engagement option weekly**
+(Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
+requirements. The forms of participation can only be done twice each
 during the entire course (i.e. you can only do 2 tiktoks per semester).
 You can collaborate with peers on submissions, but they must be
 submitted individually. You must adopt 5 different forms of
@@ -437,7 +436,7 @@ Completing 10 weeks fulfills the full 70%. If you are submitting the
 same assignment for a second time, make sure to address 'What did I do
 differently this week?'
 
-Weekly Engagement Options (a minimum of two options required per week):
+Weekly Engagement Options (a minimum of one option required per week):
 
 1.  Written Responses (250 words per lesson): A reflective analysis
     engaging with lesson ideas and concepts from lectures, readings, or
@@ -470,9 +469,9 @@ Weekly Engagement Options (a minimum of two options required per week):
 A Final calculation activity is **required** to receive your
 participation mark.
 
-More than 2 forms of participation each week, or substantive improvement
-can result in a higher grade (the 80, 85 and 90 grades below are
-approximations, I withhold the right to assess the quality of the
+More than one form of participation each week, or substantive
+improvement can result in a higher grade (the 80, 85 and 90 grades below
+are approximations, I withhold the right to assess the quality of the
 submission and adjust the grade accordingly). You should be able to
 demonstrate your responses to my feedback, engaging with different
 course material each week to demonstrate improvement throughout the
@@ -528,24 +527,24 @@ ways.
 >
 > 2\. An in-class presentation. A brief description of the event (or
 > relevant media) should be distributed to the class (subject to
-> instructor prior approval, and following class guidelines) and the
+> instructor prior approval and following class guidelines) and the
 > presenter should outline their interpretation of the event for the
 > class. The presenter will then prepare a short exercise, role playing
 > or creative interactive exercise to raise issues and ideas that stem
 > from the event and their critical interpretation of it. All exercises
 > must be preapproved by the instructor and cannot be presented without
-> the instructor's approval. A minimum of three academic sources are
-> required one from our course readings. All materials should be made
-> available one week before the presentation including the presentation
+> the instructor's approval. A minimum of three academic sources is
+> required, one from our course readings. All materials should be made
+> available one week before the presentation, including the presentation
 > slides.
 
 For an example of a cyber framing event media assessment see the link in
-brightspace
+Brightspace
 
 ## Term Assignment -- Option 2 - Media Assessment
 
 Media Assessment - This assignment will critically engage with the
-depiction of a key issue event or incident in relation to cyberpolitics
+depiction of a key issue, event or incident in relation to cyberpolitics
 and cyber governance. All media options must be approved by the
 instructor before proceeding with the assignment. Media should be
 popular and publicly available, such as motion pictures, short films,
@@ -610,7 +609,7 @@ summarize or re-present the material. All exercises must be preapproved
 by the instructor and cannot be presented without the instructor's
 approval. A minimum of three academic sources is required, and at least
 one from the course readings. All materials should be made available one
-week before the presentation including the presentation slides.
+week before the presentation, including the presentation slides.
 
 ## Essay: Due November 27, 2025.
 
@@ -1095,8 +1094,8 @@ whatever our backgrounds, experiences, or positions.
 
 ## Late Assignments - Formal Guidelines
 
-Late papers will be accepted, but will be subject to a late penalty of
-10 per cent per day to a maximum of 5 days, after which they will not be
+Late papers will be accepted but will be subject to a late penalty of 10
+per cent per day to a maximum of 5 days, after which they will not be
 accepted and a mark of 0 will be recorded. In the interest of fairness
 to all students, there will be no exceptions to this unless you have
 arranged in advance for an extension. All extensions must be arranged in
