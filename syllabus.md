@@ -421,62 +421,28 @@ Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
 ## Weekly Participation -- (Weekly submissions) 
 
-Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
+Weekly Participation – (Weekly submissions)  
 
-Students **must** complete a minimum of **one engagement option weekly**
-(Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
-requirements. The forms of participation can only be done twice each
-during the entire course (i.e. you can only do 2 tiktoks per semester).
-You can collaborate with peers on submissions, but they must be
-submitted individually. You must adopt 5 different forms of
-participation throughout the course to build your portfolio and prevent
-rote production of participation. A total of 10 weeks of participation
-is required, allowing students to skip 2 weeks (e.g., weeks 1 and 12).
-Completing 10 weeks fulfills the full 70%. If you are submitting the
-same assignment for a second time, make sure to address 'What did I do
-differently this week?'
+Weekly Assignments – Base submission is pass/fail 70% (17.5 of 25)   
 
-Weekly Engagement Options (a minimum of one option required per week):
+Students must complete a minimum of two engagement option weekly (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation requirements. Weekly in-class exercises count towards one participation mark. The remaining forms of participation can only be done twice each during the entire course (i.e. you can only do 2 tiktoks per semester). You can collaborate with peers on submissions, but they must be submitted individually. You must adopt 5 different forms of participation for the secondary mark, throughout the course to build your portfolio and prevent rote production of participation.  A total of 10 weeks of participation is required, allowing students to skip 2 weeks (e.g., weeks 1 and 12). Completing 10 weeks fulfills the full 70%. If you are submitting the same assignment for a second time, make sure to address ‘What did I do differently this week?’  
 
-1.  Written Responses (250 words per lesson): A reflective analysis
-    engaging with lesson ideas and concepts from lectures, readings, or
-    both. This is not a summary but a critical engagement that links
-    material to current international issues. Proper essay paragraph
-    structure and intext citations are required where applicable. You
-    must reference the course readings at least three times per week to
-    get maximum grades. Submissions not meeting these standards are
-    ineligible for full credit. Each written response counts for one
-    participation mark. See detailed criteria below.
+Weekly Engagement Options:   
 
-2.  Video Responses: A short (TikTok-style) video exploring a key
-    academic issue from each lesson's content, suitable for a general
-    audience. Videos must reference at least one academic, peer-reviewed
-    source from our reading list and can be uploaded to Brightspace each
-    week (or linked if hosted elsewhere). Public posting is not
-    required. Each video counts for one participation mark.
+In class exercises count as one form of participation. 
+For the secondary form of participation, these are available options: 
 
-3.  Other forms of participation from this list:
-    <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-    excluding: True/False Questions, Quiz, Exams and Tests,
-    Fill-in-the-Blank Questions, Close Reading with Questions, Diagram
-    or Image-Based Questions, Summary. If you have any questions, please
-    contact the instructor about the viability of your participation.
+Written Responses (250 words per lesson): A reflective analysis engaging with lesson ideas and concepts from lectures, readings, or both. This is not a summary but a critical engagement that links material to current international issues. Proper essay paragraph structure and intext citations are required where applicable. You must reference the course readings at least three times per week to get maximum grades. Submissions not meeting these standards are ineligible for full credit.  Each written response counts for one participation mark. See detailed criteria below. 
 
-> Sample weekly participation submission:![Picture 565367195, Picture,
-> Picture](/media/image.png){width="4.989583333333333in"
-> height="1.78125in"}
+Video Responses: A short (TikTok-style) video exploring a key academic issue from each lesson’s content, suitable for a general audience. Videos must reference at least one academic, peer-reviewed source from our reading list and can be uploaded to Brightspace each week (or linked if hosted elsewhere). Public posting is not required.  Each video counts for one participation mark. 
 
-A Final calculation activity is **required** to receive your
-participation mark.
+Other forms of participation from this list: https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies excluding: True/False Questions, Quiz, Exams and Tests, Fill-in-the-Blank Questions, Close Reading with Questions, Diagram or Image-Based Questions, Summary. If you have any questions, please contact the instructor about the viability of your participation. 
 
-More than one form of participation each week, or substantive
-improvement can result in a higher grade (the 80, 85 and 90 grades below
-are approximations, I withhold the right to assess the quality of the
-submission and adjust the grade accordingly). You should be able to
-demonstrate your responses to my feedback, engaging with different
-course material each week to demonstrate improvement throughout the
-course. See Brightspace for an example of how to calculate your
-participation grade.
+Sample weekly participation submission:Picture 565367195, Picture, Picture 
+
+A Final calculation activity is required to receive your participation mark.   
+
+Beyond the two forms of participation each week, substantive improvement can result in a higher grade (the 80, 85 and 90 grades below are approximations, I withhold the right to assess the quality of the submission and adjust the grade accordingly). You should be able to demonstrate your responses to my feedback, engaging with different course material each week to demonstrate improvement throughout the course. See Brightspace for an example of how to calculate your participation grade.
 
 ## Attendance Bonus (5% on final participation summary)
 
@@ -1404,3 +1370,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
+
