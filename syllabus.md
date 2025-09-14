@@ -1417,3 +1417,6 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     available course outlines of Marshall Beier, Alina Sajed, Jennifer
     Clapp, Sandy Irvine and S. Soderberg. All courtesy and thanks are
     given to these authors.
+
+    If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
+
