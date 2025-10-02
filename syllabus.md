@@ -435,12 +435,7 @@ Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 Students **must** complete a minimum of **two engagement option weekly**
 (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
 requirements. Weekly in-class exercises count towards one participation
-mark. The remaining forms of participation can only be done twice each
-during the entire course (i.e. you can only do 2 tiktoks per semester).
-You can collaborate with peers on submissions, but they must be
-submitted individually. You must adopt 5 different forms of
-participation for the secondary mark, throughout the course to build
-your portfolio and prevent rote production of participation. A total of
+mark. Tiktoks can be done each week but do not count towards your word count for the course. The remaining written forms of participation can only be done twice each during the entire course (i.e. you can only do 2 policy briefs summaries per semester). You can collaborate with peers on submissions, but they must be submitted individually. If you are doing written participation you must adopt 5 different forms of written participation throughout the course to build your portfolio and prevent rote production of participation. A total of
 10 weeks of participation is required, allowing students to skip 2 weeks
 (e.g., weeks 1 and 12). Completing 10 weeks fulfills the full 70%. If
 you are submitting the same assignment for a second time, make sure to
@@ -470,7 +465,7 @@ Weekly Engagement Options:
 
 3.  Other forms of participation from this list:
     <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-    excluding: True/False Questions, Quiz, Exams and Tests,
+    EXCLUDING: True/False Questions, Quiz, Exams and Tests,
     Fill-in-the-Blank Questions, Close Reading with Questions, Diagram
     or Image-Based Questions, Summary. If you have any questions, please
     contact the instructor about the viability of your participation.
@@ -1419,4 +1414,5 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     given to these authors.
 
     If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
+
 
